@@ -5,7 +5,7 @@
 
 <p>A computer science student at <strong>CESAR School</strong>.</p>
 <p>Passionate about technology and in search of the dream of being a <strong>teacher</strong> in this area.</p>
-<p>currently, i'm a <strong>Full Stack Developer</strong>.</p>
+<p>currently, i'm a <strong>Full Stack Developer and a cloud computing enthusiast</strong>.</p>
 
 ## Habilidades Técnicas
 
