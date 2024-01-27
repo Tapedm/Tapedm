@@ -7,9 +7,9 @@
 <p>Passionate about technology and in search of the dream of being a <strong>teacher</strong> in this area.</p>
 <p>currently, i'm a <strong>Full Stack Developer and a cloud computing enthusiast</strong>.</p>
 
-## Habilidades Técnicas
+## Hard Skills
 
-<div style="display : inline_bloxk"><br>
+<div style="display : inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="40" alt="Javascript" />
